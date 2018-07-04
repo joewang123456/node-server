@@ -1,5 +1,5 @@
 /**
- * SSE 服务端代码:develop
+ * SSE 服务端代码:develop:develop
  */
 var express = require('express');
 var app = express();
